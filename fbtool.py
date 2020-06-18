@@ -58,10 +58,10 @@ logo = """
 \033[1;92m
 \033[1;92m
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97mAuthor©\033[1;97m: \033[1;92mAzim Mahmud
-\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/azimmahmud143
-\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/100022097600640
-\033[1;97mWhatsapp\033[1;97m: \033[1;92m+8801766093890
+\033[1;97mAuthor©\033[1;97m: \033[1;92mMk Sabbir Rahman
+\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/mksabbir.rahman.5
+\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/justinsabbir.007
+\033[1;97mWhatsapp\033[1;97m: \033[1;92m+8801628562995
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
 def tik():
@@ -90,10 +90,10 @@ print  """
   \033[1;91m\ \/\/ /| _|| |__| (_| (_) | |\/| | _|  
    \033[1;92m\_/\_/ |___|____|\___\___/|_|  |_|___|
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mAzim Mahmud
-\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/azimmahmud143
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/100022097600640
-\033[1;91mWhatsapp\033[1;91m: \033[1;93m+8801766093890
+\033[1;91mAuthor©\033[1;91m: \033[1;93mMk Sabbir Rahman
+\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/mksabbir.rahman.5
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/justinsabbir.007
+\033[1;91mWhatsapp\033[1;91m: \033[1;93m+8801628562995
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m   It's not in Commands Control to get a   ")
@@ -103,8 +103,8 @@ jalan("\033[1;97m   goes to Checkpoint is due to Facebook ")
 jalan("\033[1;97m    Security,That's not Commands Issue.")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
-CorrectUsername = "Azim"
-CorrectPassword = "Azim!"
+CorrectUsername = "sabbir"
+CorrectPassword = "sabbir"
 
 loop = 'true'
 while (loop == 'true'):
