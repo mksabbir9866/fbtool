@@ -120,7 +120,7 @@ while (loop == 'true'):
             os.system('xdg-open https://chat.whatsapp.com/FRfuraMrZrU3mgCtuFg75k')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.Facebook.com/100022097600640')
+        os.system('xdg-open https://www.Facebook.com/justinsabbir.007')
 
 def login():
 	os.system('clear')
